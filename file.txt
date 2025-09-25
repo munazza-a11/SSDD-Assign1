@@ -1,2 +1,4 @@
 Line 1
-Change from A
+Change from A=
+Change from B
+feature/B
